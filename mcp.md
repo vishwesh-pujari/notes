@@ -1,6 +1,6 @@
 # Model Context Protocol (MCP)
 
-## 📌 Overview
+## Overview
 
 MCP (Model Context Protocol) is a standardized way for AI agents (LLMs) to communicate with external tools and services.
 
@@ -8,7 +8,7 @@ It solves the problem of non-standard integrations between AI agents and externa
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [Basic Terminology](#basic-terminology)
 - [Communication Protocol](#communication-protocol)
@@ -22,7 +22,7 @@ It solves the problem of non-standard integrations between AI agents and externa
 
 ---
 
-## 🧠 Basic Terminology
+## Basic Terminology
 
 - **Model** → LLM  
 - **Context** → Provides context to the LLM about capability of the server  
@@ -30,7 +30,7 @@ It solves the problem of non-standard integrations between AI agents and externa
 
 ---
 
-## 🔗 Communication Protocol
+## Communication Protocol
 
 Protocol used is **JSON-RPC**
 
@@ -39,14 +39,14 @@ Protocol used is **JSON-RPC**
 
 ---
 
-## ⚙️ Key Characteristics
+## Key Characteristics
 
 - MCP is **stateful**  
 - MCP is **bi-directional**  
 
 ---
 
-## ❓ Problem MCP Solves
+## Problem MCP Solves
 
 AI agents need to connect to external tools to perform tasks.
 
@@ -66,7 +66,7 @@ This made integrations messy and not scalable.
 
 ---
 
-## 🔄 Data Transfer Mechanisms
+## Data Transfer Mechanisms
 
 MCP can use the following protocols to transfer data:
 
@@ -78,7 +78,7 @@ MCP can use the following protocols to transfer data:
 
 ---
 
-## 🧩 Roles
+## Roles
 
 ### Server
 - Any service that wants to expose its functionalities to an LLM  
@@ -91,7 +91,7 @@ MCP can use the following protocols to transfer data:
 
 ---
 
-## 🛠️ SDK Support
+## SDK Support
 
 SDKs are available to build:
 - MCP clients  
@@ -99,7 +99,7 @@ SDKs are available to build:
 
 ---
 
-## 🧰 MCP Server Capabilities
+## MCP Server Capabilities
 
 MCP server exposes:
 
@@ -115,7 +115,7 @@ MCP server exposes:
 
 ---
 
-## 💻 MCP Client Capabilities
+## MCP Client Capabilities
 
 MCP client provides functionalities that server can use:
 
@@ -130,7 +130,7 @@ MCP client provides functionalities that server can use:
 
 ---
 
-## 🚀 Summary
+## Summary
 
 MCP standardizes how AI agents interact with external tools by:
 - Providing a common protocol (JSON-RPC)
