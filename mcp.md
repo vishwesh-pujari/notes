@@ -111,7 +111,7 @@ MCP server exposes:
 - Read-only metadata or information that the server provides  
 
 ### 3. Prompts
-- Detailed prompts that the agent can use to feed into the LLM  
+- Detailed prompts that can act as "conversation-starters" for users. It gives examples of prompts to be executed by the user in order to use the MCP server.
 
 ---
 
