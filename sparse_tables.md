@@ -179,3 +179,7 @@ Query [L, R]   O(1)         ← pick largest power-of-2 block, cover [L,R] with 
 ```
 
 > The whole magic of sparse tables is: precompute cleverly so queries become dead simple.
+
+## Problems
+
+- [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/description)
