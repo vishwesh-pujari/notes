@@ -1,6 +1,6 @@
 # Sparse Tables
 
-> 📅 **11th June 2026** — Notes from [this brilliant video](https://youtu.be/0jWeUdxrGm4?si=Og3jsMjAPIGdT8iG)
+> 📅 **11th June 2026** — Notes from [this brilliant video by Errichto Algorithms](https://youtu.be/0jWeUdxrGm4?si=Og3jsMjAPIGdT8iG)
 
 ---
 
