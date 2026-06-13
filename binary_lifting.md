@@ -1,7 +1,7 @@
 # Binary Lifting
 
 ## Pre-requisite
-- [Sparse Table](https://en.wikipedia.org/wiki/Sparse_table) — make sure you understand this first before diving in.
+- [Sparse Table](https://github.com/vishwesh-pujari/notes/blob/main/sparse_tables.md) — make sure you understand this first before diving in.
 
 ---
 
