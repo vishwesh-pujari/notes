@@ -18,3 +18,7 @@ However, be informed that there are some problems where marking visited as true 
 
 https://leetcode.com/problems/find-the-safest-path-in-a-grid/
 
+
+Also, do note that there are certain problems where you have to solve the problem using the "typical dijsktra's template", i.e. using the cost array and using a queue instead of PriorityQueue:
+
+https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities
