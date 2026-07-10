@@ -1,5 +1,9 @@
 # Binary Lifting
 
+Similar problems - https://leetcode.com/problems/path-existence-queries-in-a-graph-ii 
+
+
+
 ## Pre-requisite
 - [Sparse Table](https://github.com/vishwesh-pujari/notes/blob/main/sparse_tables.md) — make sure you understand this first before diving in.
 
